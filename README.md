@@ -1,2 +1,3 @@
-# Mean_variance_standard-deviation_calculator_freecodecamp
-The **Mean-Variance-Standard Deviation Calculator** repository contains a Python function that calculates the mean, variance, and standard deviation for rows, columns, and the entire 3x3 matrix from a list of 9 numbers. It is part of FreeCodeCamp’s **Data Analysis with Python** course, using libraries like `NumPy` for efficient matrix operations.
+# Mean-Variance-Standard Deviation Calculator
+
+This is the boilerplate for the Mean-Variance-Standard Deviation Calculator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
