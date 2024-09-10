@@ -10,5 +10,6 @@ The **Mean-Variance-Standard Deviation Calculator** repository is part of the **
    - A Python script for the solution.
    - Unit tests to ensure the function behaves as expected with various inputs.
    - Documentation and instructions on how to use and run the project.
-This project helps learners get familiar with basic matrix operations, statistical calculations, and how to manipulate data using Python.
+
+
 Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
